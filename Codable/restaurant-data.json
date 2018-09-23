@@ -1,0 +1,14 @@
+[{
+    "name": "CTB",
+    "currentlyOpen": true,
+    "description": "Bagels and more!"
+},
+{
+    "name": "Stella's",
+    "currentlyOpen": false,
+    "description": "Oops, we went out of business"
+},
+{
+    "name": "Calios",
+    "currentlyOpen": true
+}]
