@@ -1,3 +1,6 @@
 [submodule "IGListKit"]
 	path = IGListKit
 	url = https://github.com/Instagram/IGListKit.git
+[submodule "IGListKitDemo"]
+	path = IGListKitDemo
+	url = https://github.com/kevinchan159/IGListKitDemo.git
