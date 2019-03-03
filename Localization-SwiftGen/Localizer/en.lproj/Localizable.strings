@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Localizer
+
+  Created by William Ma on 2/10/19.
+  Copyright © 2019 William Ma. All rights reserved.
+*/
+
+"Introduction.Welcome" = "Welcome to Localizer";
